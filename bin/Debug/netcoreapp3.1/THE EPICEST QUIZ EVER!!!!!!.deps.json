@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "THE EPICEST QUIZ EVER!!!!!!/1.0.0": {
+        "runtime": {
+          "THE EPICEST QUIZ EVER!!!!!!.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "THE EPICEST QUIZ EVER!!!!!!/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

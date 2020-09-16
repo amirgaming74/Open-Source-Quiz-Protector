@@ -1,0 +1,26 @@
+C:\Users\Amir Farhat\Desktop\THE EPICEST QUIZ EVER!!!!!!\obj\Debug\netcoreapp3.1\THE EPICEST QUIZ EVER!!!!!!.csprojAssemblyReference.cache
+C:\Users\Amir Farhat\Desktop\THE EPICEST QUIZ EVER!!!!!!\obj\Debug\netcoreapp3.1\THE EPICEST QUIZ EVER!!!!!!.AssemblyInfoInputs.cache
+C:\Users\Amir Farhat\Desktop\THE EPICEST QUIZ EVER!!!!!!\obj\Debug\netcoreapp3.1\THE EPICEST QUIZ EVER!!!!!!.AssemblyInfo.cs
+C:\Users\Amir Farhat\Desktop\THE EPICEST QUIZ EVER!!!!!!\obj\Debug\netcoreapp3.1\THE EPICEST QUIZ EVER!!!!!!.csproj.CoreCompileInputs.cache
+C:\Users\Amir Farhat\Desktop\THE EPICEST QUIZ EVER!!!!!!\bin\Debug\netcoreapp3.1\THE EPICEST QUIZ EVER!!!!!!.exe
+C:\Users\Amir Farhat\Desktop\THE EPICEST QUIZ EVER!!!!!!\bin\Debug\netcoreapp3.1\THE EPICEST QUIZ EVER!!!!!!.deps.json
+C:\Users\Amir Farhat\Desktop\THE EPICEST QUIZ EVER!!!!!!\bin\Debug\netcoreapp3.1\THE EPICEST QUIZ EVER!!!!!!.runtimeconfig.json
+C:\Users\Amir Farhat\Desktop\THE EPICEST QUIZ EVER!!!!!!\bin\Debug\netcoreapp3.1\THE EPICEST QUIZ EVER!!!!!!.runtimeconfig.dev.json
+C:\Users\Amir Farhat\Desktop\THE EPICEST QUIZ EVER!!!!!!\bin\Debug\netcoreapp3.1\THE EPICEST QUIZ EVER!!!!!!.dll
+C:\Users\Amir Farhat\Desktop\THE EPICEST QUIZ EVER!!!!!!\bin\Debug\netcoreapp3.1\THE EPICEST QUIZ EVER!!!!!!.pdb
+C:\Users\Amir Farhat\Desktop\THE EPICEST QUIZ EVER!!!!!!\obj\Debug\netcoreapp3.1\THE EPICEST QUIZ EVER!!!!!!.dll
+C:\Users\Amir Farhat\Desktop\THE EPICEST QUIZ EVER!!!!!!\obj\Debug\netcoreapp3.1\THE EPICEST QUIZ EVER!!!!!!.pdb
+C:\Users\Amir Farhat\Desktop\THE EPICEST QUIZ EVER!!!!!!\obj\Debug\netcoreapp3.1\THE EPICEST QUIZ EVER!!!!!!.genruntimeconfig.cache
+C:\Users\Amir Farhat\Desktop\C# Normal Projects\THE EPICEST QUIZ EVER!!!!!!\bin\Debug\netcoreapp3.1\THE EPICEST QUIZ EVER!!!!!!.exe
+C:\Users\Amir Farhat\Desktop\C# Normal Projects\THE EPICEST QUIZ EVER!!!!!!\bin\Debug\netcoreapp3.1\THE EPICEST QUIZ EVER!!!!!!.deps.json
+C:\Users\Amir Farhat\Desktop\C# Normal Projects\THE EPICEST QUIZ EVER!!!!!!\bin\Debug\netcoreapp3.1\THE EPICEST QUIZ EVER!!!!!!.runtimeconfig.json
+C:\Users\Amir Farhat\Desktop\C# Normal Projects\THE EPICEST QUIZ EVER!!!!!!\bin\Debug\netcoreapp3.1\THE EPICEST QUIZ EVER!!!!!!.runtimeconfig.dev.json
+C:\Users\Amir Farhat\Desktop\C# Normal Projects\THE EPICEST QUIZ EVER!!!!!!\bin\Debug\netcoreapp3.1\THE EPICEST QUIZ EVER!!!!!!.dll
+C:\Users\Amir Farhat\Desktop\C# Normal Projects\THE EPICEST QUIZ EVER!!!!!!\bin\Debug\netcoreapp3.1\THE EPICEST QUIZ EVER!!!!!!.pdb
+C:\Users\Amir Farhat\Desktop\C# Normal Projects\THE EPICEST QUIZ EVER!!!!!!\obj\Debug\netcoreapp3.1\THE EPICEST QUIZ EVER!!!!!!.csprojAssemblyReference.cache
+C:\Users\Amir Farhat\Desktop\C# Normal Projects\THE EPICEST QUIZ EVER!!!!!!\obj\Debug\netcoreapp3.1\THE EPICEST QUIZ EVER!!!!!!.AssemblyInfoInputs.cache
+C:\Users\Amir Farhat\Desktop\C# Normal Projects\THE EPICEST QUIZ EVER!!!!!!\obj\Debug\netcoreapp3.1\THE EPICEST QUIZ EVER!!!!!!.AssemblyInfo.cs
+C:\Users\Amir Farhat\Desktop\C# Normal Projects\THE EPICEST QUIZ EVER!!!!!!\obj\Debug\netcoreapp3.1\THE EPICEST QUIZ EVER!!!!!!.csproj.CoreCompileInputs.cache
+C:\Users\Amir Farhat\Desktop\C# Normal Projects\THE EPICEST QUIZ EVER!!!!!!\obj\Debug\netcoreapp3.1\THE EPICEST QUIZ EVER!!!!!!.dll
+C:\Users\Amir Farhat\Desktop\C# Normal Projects\THE EPICEST QUIZ EVER!!!!!!\obj\Debug\netcoreapp3.1\THE EPICEST QUIZ EVER!!!!!!.pdb
+C:\Users\Amir Farhat\Desktop\C# Normal Projects\THE EPICEST QUIZ EVER!!!!!!\obj\Debug\netcoreapp3.1\THE EPICEST QUIZ EVER!!!!!!.genruntimeconfig.cache
